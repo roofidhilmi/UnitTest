@@ -1,0 +1,1 @@
+{"uuid":"ec7c5360-27e3-4e59-abf6-3fd1d16cb1e1","name":"com.testing.qa.ProstasiaWeb.BaseWeb.setUp","description":"","start":1662540806557,"stop":1662540810238,"children":["347e0cc3-7fb5-41e7-af81-433dde09fb94"],"befores":[{"name":"setUp","status":"passed","stage":"finished","description":"","start":1662540806561,"stop":1662540810226}]}
